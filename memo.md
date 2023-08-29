@@ -1,5 +1,7 @@
-# H1 STAKEHOLDER MEMORANDUM
 
+  # STAKEHOLDER MEMORANDUM
+
+***
 TO: IT Manager, Stakeholders
 
 FROM: Simone Christen
@@ -7,7 +9,7 @@ FROM: Simone Christen
 DATE: 8-25-2023
 
 SUBJECT: Internal IT Audit Findings and Recommendations
-
+***
 Dear Colleagues,
 
 Please review the following information regarding the Botium Toys internal audit scope, goals, critical findings, summary and recommendations.
