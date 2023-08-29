@@ -1,5 +1,5 @@
 # stakeholder-memo
-A Stakeholder Memorandum written regarding IT Audit Findings and Recommendations for a fictitious company named Botium Toys as part of the Google Cybersecurity Professional Certificate.
+This repo contains a stakeholder memorandum written for a fictiious company named Botium Toys. The subject of the memorandum is an internal IT audit which includes findings and recommendations. This exercise was completed as part of the Google Cybersecurity Professional Certificate.
 
 Current Assets of Botium Toys:
 
