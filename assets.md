@@ -1,3 +1,5 @@
+> [!NOTE]
+> Asset list was already provided as part of the exercise.
 
 ## Current Assets of Botium Toys:
 
